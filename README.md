@@ -33,7 +33,22 @@ It uses **Selenium** to simulate human interaction with the dynamic site and ext
   - Extract structured content from dynamically updated HTML
 
 ---
+## 📊 Use Cases
+Market research for job seekers or data analysts
 
+Analyze trends in job demand, companies hiring, and required skills
+
+Feed data into dashboards or visual storytelling tools like Power BI
+
+---
+## 🔮 Future Improvements
+Scrape jobs in other countries or roles
+
+Add NLP to extract top skills from descriptions
+
+Schedule scraping to keep the data fresh
+
+---
 ## 👤 Author
 
 Eng. Abdelrahman Yakout
