@@ -1,4 +1,3 @@
-# Glassdoor-Web-Scraping
 # 🕷️ Glassdoor Job Scraper - Data Analyst Positions (Egypt)
 
 This project scrapes job listings for **Data Analyst** roles from [Glassdoor](https://www.glassdoor.com/), specifically targeting the **Egypt** region.  
